@@ -72,7 +72,7 @@ int main() {
 }
 ``` 
 # OUTPUT:
-
+<img width="1461" height="273" alt="image" src="https://github.com/user-attachments/assets/da77b689-5436-4a43-b962-d426e66c7814" />
 
 # RESULT:
 Thus the error detection using CRC-CCITT[16 bit] technique is implemented and the output is obtained and verified successfully.
